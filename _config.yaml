@@ -2,5 +2,41 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Dipshikha Das
+# title: Dipshikha Das
 description: [Here to talk and share abour Robotics]
+
+# backgrounds:
+#   hero: "images/hero-bg.jpg"
+#   about: "images/about-bg.jpg"
+#   education: "images/education-bg.jpg"
+#   experience: "images/experience-bg.jpg"
+#   projects: "images/projects-bg.jpg"
+#   contact: "images/contact-bg.jpg"
+
+background:
+  hero: "#007bff"        # Blue
+  about: "#6c757d"       # Gray
+  education: "#17a2b8"   # Teal
+  experience: "#28a745"  # Green
+  projects: "#ffc107"    # Yellow
+  contact: "#dc3545"     # Red
+
+# title: My GitHub Pages
+# author: Dipshikha Das
+# backgrounds:
+#   about: "#e3f2fd"
+#   projects: "url('images/project-background.jpg')"
+#   contact: "#f9f9f9"
+
+
+
+
+#   about:
+#     color: "#e3f2fd"
+#     image: "images/about-bg.jpg"
+#   projects:
+#     color: "#ffffff"
+#     image: "images/projects-bg.jpg"
+#   contact:
+#     color: "#f9f9f9"
+#     image: ""
